@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## IS 305 Final Project
 # ### Project Name:  GPX Data to Csv file Transformation Using Python Tutorial
 # #### Goal: Learn what a GPX file is and extract useful data from it using the most basic Python.
 
